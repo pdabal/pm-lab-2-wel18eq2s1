@@ -4,7 +4,7 @@
 
 
   int main(){
-    init();
+    init(); 
     pinMode(12,OUTPUT);
     pinMode(13,OUTPUT);
     attachInterrupt(0,myISR,CHANGE);

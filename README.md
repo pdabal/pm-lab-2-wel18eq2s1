@@ -8,9 +8,10 @@ Data: 24.04.2020 r.
 
 # Informacje o studencie
 
-Imię i nazwisko studenta: Imię Nazwisko  
-Numer albumu: 12345  
-Grupa studencka: WELE18xyS1
+Imię i nazwisko studenta: Mateusz Jankowski 
+Numer albumu: 71979  
+Grupa studencka: WELE18EQ2S1
+Data: 27.04.2020 r.
 
 # Pytania do zadań z instrukcji
 ...

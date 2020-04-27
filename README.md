@@ -20,7 +20,7 @@ W jaki sposób można określić czas trwania opóźnienia zrealizowanego z uży
 
 odp : 
 
-Czas trwania opóźnienia można określić poprzez czas dekrementacji i-- w pętli do while.
+Czas trwania opóźnienia można określić poprzez czas dekrementacji i-- w pętli do while. 
 
-
-
+10:55 - zakończenie zajęć. 
+     

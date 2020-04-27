@@ -1,9 +1,23 @@
-#include <Arduino.h>
+#include <avr/io.h>
+int main()
+{
+  uint32_t i;
 
-void setup() {
-  // put your setup code here, to run once:
-}
+  DDRB |= (1<<5);
+  while (1)
+  {
+    PORTB |= (1<<5);
+    i = 0x3FFFF;
+    do
+    {
+      asm volatile("nop");
+    } while (i--);
+    PORTB &= !(1<<5);
+    i = 0x3FFFF;
+    do
+    {
+      asm volatile("nop");
+    } while (i--);
 
-void loop() {
-  // put your main code here, to run repeatedly:
+  }
 }

@@ -16,4 +16,4 @@ Grupa studencka: WELE18EQ2S1
 ...
  W jaki sposób można określić czas trwania
 opóźnienia zrealizowanego z użyciem pętli?
-Odp. dzięki czasowi dekrementacji 
+Odp. Zmniejszając wartość z wartości "5" na mniejszą użytą w pętlach do dekrementacji

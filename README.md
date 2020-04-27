@@ -13,4 +13,5 @@ Numer albumu: 72023
 Grupa studencka: WELE18Q2S1
 
 # Pytania do zadań z instrukcji
-
+W jaki sposób można określić czas trwania opóźnienia zrealizowanego z użyciem pętli? 
+Można określić dzięki zmiejszeniu wartości "5" na mniejszą użytą w pętlach do dekrementacji. 

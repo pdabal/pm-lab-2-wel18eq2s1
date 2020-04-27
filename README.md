@@ -16,3 +16,4 @@ Grupa studencka: WELE18EQ2S1
 W jaki sposób można określić czas trwania opóźnienia zrealizowanego z użyciem pętli? 
 
 
+

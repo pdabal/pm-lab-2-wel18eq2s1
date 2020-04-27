@@ -14,3 +14,6 @@ Grupa studencka: WELE18EQ2S1
 
 # Pytania do zadań z instrukcji
 ...
+ W jaki sposób można określić czas trwania
+opóźnienia zrealizowanego z użyciem pętli?
+Odp.

@@ -14,3 +14,5 @@ Grupa studencka: WELE18EQ2S1
 
 # Pytania do zadań z instrukcji
 ...
+Zad 2.2.1
+Mozna zmniejszyc czas dekrementacji od 0 do 1

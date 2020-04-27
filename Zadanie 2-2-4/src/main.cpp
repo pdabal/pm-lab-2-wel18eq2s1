@@ -11,7 +11,7 @@ void togglePinD13(bool *state) {
 
 void  delay() {
   for(uint32_t j = 0x1FFFF; j >0; j--);
- // asmVolatile("nop");
+  asm volatile("nop");
 }
 
 int main()

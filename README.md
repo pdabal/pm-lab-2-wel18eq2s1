@@ -14,3 +14,4 @@ Grupa studencka: WELE18Q2S1
 
 # Pytania do zadań z instrukcji
 Zadanie-2-2-1: Czas opóźnienia trwa od czasu dekrementacji (i--) do 0
+

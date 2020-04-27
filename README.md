@@ -13,4 +13,6 @@ Numer albumu: 72011
 Grupa studencka: WELE18Q2S1
 
 # Pytania do zadań z instrukcji
-...
+2.2.1
+W jaki sposób można określić czas trwania opóźnienia zrealizowanego z użyciem pętli?
+-przez czas dekrementacji zmiennej "i" aż do wartości 0.

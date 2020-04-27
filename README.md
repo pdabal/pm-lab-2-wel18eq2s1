@@ -15,4 +15,4 @@ Grupa studencka: WEL18EQ2S1
 # Pytania do zadań z instrukcji
 ...
 2.2.1 W jaki sposób można określić czas trwania opóźnienia zrealizowanego z użyciem pętli?
--jest to czas pomiędzy kolejnymi momentami kiedy pomaranczowa dioda się zapala
+-możemy to zrobić zmniejszac wartosc z wartosci 5 na wartosc uzytą w pętlach do dekrementaacji

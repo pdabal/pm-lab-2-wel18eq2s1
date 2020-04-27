@@ -8,9 +8,9 @@ Data: 24.04.2020 r.
 
 # Informacje o studencie
 
-Imię i nazwisko studenta: Imię Nazwisko  
-Numer albumu: 12345  
-Grupa studencka: WELE18xyS1
+Imię i nazwisko studenta: Łukasz Kopczyński
+Numer albumu: 71984  
+Grupa studencka: WELE18EQ2S1
 
 # Pytania do zadań z instrukcji
 ...

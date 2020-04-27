@@ -13,4 +13,4 @@ Numer albumu: 72023
 Grupa studencka: WELE18Q2S1
 
 # Pytania do zadań z instrukcji
-...
+

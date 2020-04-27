@@ -15,4 +15,4 @@ Grupa studencka: WELE18EQ2S1
 # Pytania do zadań z instrukcji
 Zadanie 2-2-1
 W jaki sposób można określić czas trwania opóźnienia zrealizowanego z użyciem pętli?
-Odp: Zmieniając czas dekrementacji i do 0.
+Odp: Zmieniając czas dekrementacji i.
